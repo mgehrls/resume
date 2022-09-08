@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mgehrls/resume/static/css/main.f1ad509d.css",
+    "main.js": "/mgehrls/resume/static/js/main.4caeab21.js",
+    "static/media/grandrapids--dark.jpg": "/mgehrls/resume/static/media/grandrapids--dark.35ddc410e1f421f3ca64.jpg",
+    "index.html": "/mgehrls/resume/index.html",
+    "main.f1ad509d.css.map": "/mgehrls/resume/static/css/main.f1ad509d.css.map",
+    "main.4caeab21.js.map": "/mgehrls/resume/static/js/main.4caeab21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ad509d.css",
+    "static/js/main.4caeab21.js"
+  ]
+}
