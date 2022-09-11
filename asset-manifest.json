@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.dd7121b3.css",
-    "main.js": "/resume/static/js/main.de7c5d24.js",
+    "main.css": "/resume/static/css/main.245d2d96.css",
+    "main.js": "/resume/static/js/main.04ce50ae.js",
     "static/media/grandrapids--dark.jpg": "/resume/static/media/grandrapids--dark.35ddc410e1f421f3ca64.jpg",
     "index.html": "/resume/index.html",
-    "main.dd7121b3.css.map": "/resume/static/css/main.dd7121b3.css.map",
-    "main.de7c5d24.js.map": "/resume/static/js/main.de7c5d24.js.map"
+    "main.245d2d96.css.map": "/resume/static/css/main.245d2d96.css.map",
+    "main.04ce50ae.js.map": "/resume/static/js/main.04ce50ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd7121b3.css",
-    "static/js/main.de7c5d24.js"
+    "static/css/main.245d2d96.css",
+    "static/js/main.04ce50ae.js"
   ]
 }
