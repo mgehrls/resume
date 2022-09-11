@@ -4,7 +4,7 @@ export default function Details() {
   return (
     <section className="details" id="details">
         <div className="details--pic">
-            <img src="/img/familyPic.jpg" alt="Matt, his wife, Krista, and their two dogs"/>
+            <img src="img/familyPic.jpg" alt="Matt, his wife, Krista, and their two dogs"/>
         </div>
         <div className="details--text">
             <div>

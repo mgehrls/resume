@@ -19,9 +19,9 @@ export default function Contact() {
                 <i className="fa-brands fa-linkedin"/>
                 <p className="contact__text">LinkedIn</p>
             </a>
-            <a href="/#" className="contact__website contact-grouped">
+            <a href="https://next-js-resume-mgehrls.vercel.app" className="contact__website contact-grouped">
                 <i className="fa-solid fa-link"/>
-                <p className="contact__text">www.mattgehrls.com</p>
+                <p className="contact__text">My Resume</p>
             </a>
             <a href="https://www.google.com/search?q=grand+rapids+michigan" className="contact__city contact-grouped">
                 <i className="fa-solid fa-location-dot"/>

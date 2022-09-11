@@ -15,9 +15,8 @@ export default function Header() {
             <li className="nav__item"><a href="#home" className="nav__link">Home</a></li>
             <li className="nav__item"><a href="#contact" className="nav__link">Contact Info</a></li>
             <li className="nav__item"><a href="#jobs" className="nav__link">Job History</a></li>
-            <li className="nav__item"><a href="#about" className="nav__link">About me</a></li>
             <li className="nav__item"><a href="#skills" className="nav__link">Skills</a></li>
-            <li className="nav__item"><a href="#details" className="nav__link">CTA!</a></li>
+            <li className="nav__item"><a href="#about" className="nav__link">About me</a></li>
         </ul>
     </nav>
 </header>

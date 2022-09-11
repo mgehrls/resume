@@ -459,6 +459,7 @@ div.job{
     grid-area: body;
     padding-left: .5em;
     margin-top:0;
+    letter-spacing: 1px;
 }
 .about__img{
     object-fit: cover;
@@ -546,7 +547,7 @@ div.job{
     flex-direction: column;
     justify-content: center;
     align-content: center;
-    margin:0;
+    margin:2rem 0;
     padding:2rem 1rem;
 }
 .details--pic{
